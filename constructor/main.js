@@ -13,6 +13,18 @@ class Animal {
 const myDog = new Animal('Simon', 5);
 console.log(myDog, myDog.toString());
 
+// Another example
+class Human {
+	constructor(name, age, occupation) {
+		this.name = name;
+		this.age = age;
+		this.occupation = occupation;
+	}
+}
+
+const person = new Human('Juan', 22, 'web engineer');
+console.log(person);
+
 // Using Functions
 function Car(model, year, miles) {
 	this.model = model;
