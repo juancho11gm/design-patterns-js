@@ -11,7 +11,7 @@ Handles object creation mechanisms where objects are created in a manner suitabl
 - [Constructor](constructor/main.js): Class based pattern that uses the constructor spresent in the class to create specific types of objects.
 - [Singleton](singleton/main.js): A class with only a single instance with global access points.
 - [Prototype](prototype/main.js): A fully initialized instance used for copying or cloning. The prototype pattern is supposed to boost the performance and make the code more efficient.
-- Builder: Separates object construction from its representation, always creates the same type of object.
+- [Builder](builder/main.js): Separates object construction from its representation, always creates the same type of object.
 - Factory: Creates an instance of several families of classes without detailing concrete classes.
 
 ## Structural
