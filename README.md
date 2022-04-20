@@ -8,11 +8,11 @@ Design Patterns are reusable solutions to commonly problems in software design.
 
 Handles object creation mechanisms where objects are created in a manner suitable.
 
-- [Constructor](constructor/main.js): Class based pattern that uses the constructor spresent in the class to create specific types of objects.
-- [Singleton](singleton/main.js): A class with only a single instance with global access points.
-- [Prototype](prototype/main.js): A fully initialized instance used for copying or cloning. The prototype pattern is supposed to boost the performance and make the code more efficient.
-- [Builder](builder/main.js): Separates object construction from its representation, always creates the same type of object.
-- [Factory](factory/main.js): Creates an instance of several families of classes without detailing concrete classes.
+- [Constructor](creational/constructor/main.js): Class based pattern that uses the constructor spresent in the class to create specific types of objects.
+- [Singleton](creational/singleton/main.js): A class with only a single instance with global access points.
+- [Prototype](creational/prototype/main.js): A fully initialized instance used for copying or cloning. The prototype pattern is supposed to boost the performance and make the code more efficient.
+- [Builder](creational/builder/main.js): Separates object construction from its representation, always creates the same type of object.
+- [Factory](creational/factory/main.js): Creates an instance of several families of classes without detailing concrete classes.
 
 ## Structural
 
