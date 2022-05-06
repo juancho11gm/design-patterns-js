@@ -18,7 +18,7 @@ Handles object creation mechanisms where objects are created in a manner suitabl
 
 Focused on relationships between different elements. If one element changes does not mean that the others will do.
 
-- Facade: A single class that hides the complexity of an entire subsystem.
+- [Facade](structural/facade/main.js): A single class that hides the complexity of an entire subsystem.
 - Proxy: A place holder object representing the true object.
 
 ## Behavioral
