@@ -27,7 +27,7 @@ Streamlines the communication between disparate elements in a system.
 
 - [Iterator](behavioral/iterator/main.js): Sequentially access the elements of a collection without knowing the inner workings of the collection.
 - [Observer](behavioral/observer/main.js): A way of notifying change to a number of classes to ensure consistency between the classes.
-- Mediator: Defines simplified communication between classes to prevent a group of classes from referring explicitly to each other.
+- [Mediator](behavioral/mediator/main.js): Defines simplified communication between classes to prevent a group of classes from referring explicitly to each other.
 - State: Alter an object's behavior when its state changes.
 
 # Sources
